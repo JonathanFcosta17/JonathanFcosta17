@@ -1,4 +1,4 @@
-## Olá, Me chamo Jonathan Costa
+## Hi, I am Jonathan Costa.
 
 <div align="center">
   <a href="https://github.com/JonathanFcosta17">
