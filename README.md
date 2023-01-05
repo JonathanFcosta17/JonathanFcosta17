@@ -8,7 +8,9 @@
   <img width="45%" height="195px" src="https://streak-stats.demolab.com?user=JonathanFcosta17&theme=windows-dark&fire=00BFBF&background=0d1117&stroke=00BFBF&border=00BFBF00&ring=00BFBF&currStreakNum=FFFFFF&sideNums=FAFFFE&currStreakLabel=00BFBF&sideLabels=00BFBF&dates=00BFBF" />
 </div>
 
+<!--
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=JonathanFcosta17&theme=gotham&hide_border=true&area=true)
+-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonathanFcosta17&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
