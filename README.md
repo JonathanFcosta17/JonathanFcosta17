@@ -4,6 +4,7 @@
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonathanFcosta17&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jonathan Costa github stats" /> 
+  
   <img width="45%" height="195px" src="https://streak-stats.demolab.com?user=JonathanFcosta17&theme=windows-dark&fire=00BFBF&background=0d1117&stroke=00BFBF&border=00BFBF00&ring=00BFBF&currStreakNum=FFFFFF&sideNums=FAFFFE&currStreakLabel=00BFBF&sideLabels=00BFBF&dates=00BFBF" />
 </div>
 
@@ -12,11 +13,12 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/jonathan-fcosta-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jonathanfc2010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathan-fcosta-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jonathanfc2010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<div style="display: inline_block"><br>
+  
+<div style="display: inline-block"><br>
   <img align="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Pandas" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="NumPy" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -27,10 +29,6 @@
   <img align="center" alt="Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanFcosta17/JonathanFcosta17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanFcosta17/JonathanFcosta17/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/JonathanFcosta17/JonathanFcosta17/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/JonathanFcosta17/JonathanFcosta17/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
